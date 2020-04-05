@@ -1,0 +1,6 @@
+GET /MHEwbzBNMEswSTAJBgUrDgMCGgUABBTNMNJMNDqCqx8FcBWK16EHdimS6QQUU3m%2FWqorSs9UgOHYm8Cd8rIDZssCEChOOcFLOG2InHKZ5YzQWleiHjAcMBoGCSsGAQUFBzABBAQNMAsGCSsGAQUFBzABAQ%3D%3D HTTP/1.1
+Host: ocsp.usertrust.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Accept-Encoding: gzip, deflate
+

@@ -1,0 +1,10 @@
+GET /content/dam/apex-legends/compete/homepage/videos/2019/12/apex-gs-hero-medium-video-announce-sizzle.mp4 HTTP/1.1
+Host: media.contentapi.ea.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Accept-Encoding: identity;q=1, *;q=0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Cookie: notice_preferences=100; _ga=GA1.2.2037393443.1576615828; bm_sz=AD75E7178D2C570167DE1D5D8FC8686A~YAAQd3YsMTCAaKRwAQAAsSrc/QcwaO3jsSiYmhX14G8jF1XdNsYyYN4JxWd2xzcc5cU4EJEAxS44nObwFsVWfzfLW180xSGB5weOvHg2QHQEhzHGJj52BwAfN+vZqB2FqfoaY2tCGWoe3lNo2gP0jissJuJX6e4Gl/006d/2X1FYqDJw/C067A+kq58=; _gcl_au=1.1.538819491.1584807030; _gid=GA1.2.1913304401.1584807030; _dc_gtm_UA-44689804-1=1; ak_bmsc=98DA2AB24F9B8A2535BD3B6D6931EDB6312C7677F35B0000753C765EB7E81D6F~pl1UPLeO6UIqseljDfXTRiGomA+pqo0lvlcSGoZQ5RdhJLrSD6Yb19OdOYLkSEGDBpBZjT+PUPJi8Q5w42q2GzH7rPGA9eQjdknCSJ99XFVh4ZADppPG/JQaJ4su3sJdMH+DLyCNJQM6JeVsgErKEviw9ItWpjsERtHSfNKHfebShR30UyGwLO2WkKsQq2ChRQOOjatnb4zyQhFUL4CEq/Y1hOwXkhDhfA5rneZWmMDJ65l5j6+vWPa/+TKuwM1RxP; notice_behavior=none; _gat_UA-44689804-1=1; bm_sv=A2888E7FFC012AFA439B3735E8D50959~FDw7t4hlcNUfemf4nZ52WSbZ26vUc4uK9BiVJk69Xg7ETDstBWewQtVa1tuYlr9pjnQmngCX+FQebiG3lU7Lvz84NvUmjnJWGm5ZyohWCgeUQHrOe9It/7BnESdf1lRcv8n4CT2zmqs2BPtPvxi6jQ==
+Range: bytes=0-
+

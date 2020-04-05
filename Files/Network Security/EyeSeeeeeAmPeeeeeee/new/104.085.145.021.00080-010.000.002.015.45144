@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://media.contentapi.ea.com/content/dam/apex-legends/compete/homepage/videos/2019/12/apex-gs-hero-medium-video-announce-sizzle.mp4
+Cache-Control: max-age=0
+Expires: Sat, 21 Mar 2020 16:10:45 GMT
+Date: Sat, 21 Mar 2020 16:10:45 GMT
+Connection: keep-alive
+X-Adaptive-Behavior-Disabled: false
+

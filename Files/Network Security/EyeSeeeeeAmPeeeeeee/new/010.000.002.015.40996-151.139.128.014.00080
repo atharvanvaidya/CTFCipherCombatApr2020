@@ -1,0 +1,6 @@
+GET /MHEwbzBNMEswSTAJBgUrDgMCGgUABBS83pEmglYTXfyF78OS%2BRiTRWadkgQULGn%2FgMmHkK404bTnTJOFmUDpp7ICECk%2Baa7DrIG9rq59LAqCuaqiHjAcMBoGCSsGAQUFBzABBAQNMAsGCSsGAQUFBzABAQ%3D%3D HTTP/1.1
+Host: ocsp.sectigo.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Accept-Encoding: gzip, deflate
+
